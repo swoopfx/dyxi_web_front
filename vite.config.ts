@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
     return {
       server: {
         port: 3000,
-        host: '0.0.0.0',
+        host: '162.159.140.98',
         allowedHosts: ['dyxfront-heeak.ondigitalocean.app', 'dyxi.site']
       },
       plugins: [react()],
