@@ -199,7 +199,7 @@ const App: React.FC = () => {
               Take Dyxi on Every Adventure!
             </h2>
             <h3 className="text-3xl md:text-4xl font-black text-indigo-900 mb-4">
-              Identify Dyslexia
+              Identify Dyslexia, ADHD
             </h3>
             <p className="text-xl text-indigo-700 max-w-xl mx-auto mb-10 leading-relaxed font-bold">
               Dyxi works best on big screens like iPads and Android tablets. Grab the app for the best experience!
