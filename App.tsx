@@ -186,6 +186,11 @@ const App: React.FC = () => {
           </div>
           
           <div className="relative z-10">
+
+            <p className="text-xl text-indigo-700 max-w-xl mx-auto mb-10 leading-relaxed font-bold">
+              Dyxi helps detects early signs of dyslexia, dyscalculia and other learning differences through fun, interactive lessons designed for young learners.
+            </p>
+            <hr className="border-indigo-300 my-6"></hr>
             <div className="bg-indigo-500 text-white inline-block px-8 py-3 rounded-full font-black text-2xl mb-6 transform -rotate-1 shadow-lg">
               Optimized for Tablets! 📟
             </div>
@@ -193,6 +198,9 @@ const App: React.FC = () => {
             <h2 className="text-3xl md:text-4xl font-black text-indigo-900 mb-4">
               Take Dyxi on Every Adventure!
             </h2>
+            <h3 className="text-3xl md:text-4xl font-black text-indigo-900 mb-4">
+              Identify Dyslexia
+            </h3>
             <p className="text-xl text-indigo-700 max-w-xl mx-auto mb-10 leading-relaxed font-bold">
               Dyxi works best on big screens like iPads and Android tablets. Grab the app for the best experience!
             </p>
